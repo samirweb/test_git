@@ -1,0 +1,3 @@
+# on ne veux pas que git suive le dossier .idea(crée par phpstrom)
+
+.idea
